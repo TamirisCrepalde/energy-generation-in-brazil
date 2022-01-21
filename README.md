@@ -1,4 +1,4 @@
-# Brazil's energy generation analysis
+# Brazil's energy generation analysis [on going]
 
 ## Motivation
 This project aims to analysis the public data about energy generation in Brazil in the past years and to answers the following questions:
